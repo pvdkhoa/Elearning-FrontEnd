@@ -91,7 +91,7 @@
                 <div class="p-4 rounded-xl shadow-2xl bg-white flex-1">
 
                     <a href="https://exam-practice.com/important-things-about-ielts-speaking/"><img
-                            src="../../../assets/images/englishTip3.svg" href="" alt="" class="w-full h-1/2 rounded-md mb-6 "></a>
+                            src="../../../assets/images/BritishCouncil.png" href="" alt="" class="w-full h-1/2 rounded-md mb-6 "></a>
                     <a class="font-bold"
                         href="https://exam-practice.com/important-things-about-ielts-speaking/">Demystifying the IELTS
                         Speaking</a>
