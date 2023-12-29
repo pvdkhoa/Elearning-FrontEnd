@@ -79,7 +79,7 @@
               
             </li>
             <li class="text-white ">
-                
+              <router-link :to="{name: '/'}">
                 <div class=" px-4 py-3 text-white hover:bg-redLight flex items-center cursor-pointer" @click="handleLogOut">
                     <div class=" flex justify-center items-center ml-1 mr-4 w-8 h-8 rounded-full bg-[#575859]">
                         
@@ -92,7 +92,7 @@
                   <div class="font-semibold block "><p>Signout</p></div>
                   
                 </div>
-             
+              </router-link>
               
             </li>
             <!-- <li class="text-white ">
@@ -143,7 +143,7 @@ console.log(role.value)
 
 const handleLogOut = ()=>{
   authStore.logout();
-  window.location.reload();
+  // window.location.reload();
 }
 
 
