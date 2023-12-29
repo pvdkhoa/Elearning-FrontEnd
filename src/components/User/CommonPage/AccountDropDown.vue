@@ -142,7 +142,7 @@ console.log(role.value)
 
 const handleLogOut = ()=>{
   authStore.logout();
-
+  window.location.reload();
 }
 
 
